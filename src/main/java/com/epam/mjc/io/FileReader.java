@@ -3,7 +3,6 @@ package com.epam.mjc.io;
 import java.io.*;
 
 
-
 public class FileReader {
 
     public Profile getDataFromFile(File file) {
